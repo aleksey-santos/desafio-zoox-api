@@ -1,0 +1,8 @@
+{
+    "porta": 3000,
+    "apiKeys": [
+        "IDKFA-IDDQD-IDCLIP-IDDT"
+    ],
+    "dbUrl":"mongodb://localhost:27017",
+    "dbName":"desafio-zoox"
+}
